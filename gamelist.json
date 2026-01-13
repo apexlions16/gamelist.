@@ -171,6 +171,13 @@
                 "https://gamebuild.launcher.xsolla.com/17906/full_games/full_game_/full_game_465cc90b6c67ecd9cbd9a5f664e80d43_.7z.036",
                 "https://gamebuild.launcher.xsolla.com/17906/full_games/full_game_/full_game_465cc90b6c67ecd9cbd9a5f664e80d43_.7z.037"
             ]
+        },
+        {
+            "id": 1451940,
+            "parts": [
+                "https://gamebuild.launcher.xsolla.com/17908/full_games/full_game_/full_game_21b6631f005efc0cba75684b80368144_.7z.001",
+                "https://gamebuild.launcher.xsolla.com/17908/full_games/full_game_/full_game_21b6631f005efc0cba75684b80368144_.7z.002"
+            ]
         }
     ]
 }
