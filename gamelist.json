@@ -888,6 +888,23 @@
             "parts": [
                 "https://gamebuild.launcher.xsolla.com/17941/full_games/full_game_/full_game_4a2f976d75cf5facf6cf3886b2a54e49_.7z.001"
             ]
+        },
+        {
+            "id": 220,
+            "parts": [
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.001",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.002",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.003",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.004",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.005",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.006",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.007",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.008",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.009",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.010",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.011",
+                "https://gamebuild.launcher.xsolla.com/17942/full_games/full_game_/full_game_4dbf62d042530aa485de8183953eb084_.7z.012"
+            ]
         }
     ]
 }
